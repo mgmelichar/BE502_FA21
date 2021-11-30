@@ -1,0 +1,11 @@
+echo "Executing HW1"
+echo "_________________________________________________"
+for month in {01..12}; do echo "Rows for month $month of 2020, with Good data:" && grep -w 2020-$month*.*Good tucson_rain.txt | wc -l ; done
+
+echo "_________________________________________________"
+
+for month in {01..12}; do echo "Rows for month $month of 2019, with Good data:" && grep -w 2019-$month*.*Good tucson_rain.txt | wc -l ; done
+
+echo "_________________________________________________"
+
+for month in {01..12}; do echo "Rows for month $month of 2018, with Good data:" && grep -w 2018-$month*.*Good tucson_rain.txt | wc -l ; done

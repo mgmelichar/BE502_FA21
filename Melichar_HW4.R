@@ -21,7 +21,6 @@ data_good <- data_sep[data_sep$quality=="Good",]
 dt <- data.table(data_good)
 # Monthly summary as data table
 rain_summary <- dt[, list(rain_avg=mean(as.integer(rainAmount)),rain_sum=sum(as.integer(rainAmount))), by=list(year, month)]
-
 # Data for 2019 and 2020
 out <- rain_summary[rain_summary$year==c("2019","2020")]
 

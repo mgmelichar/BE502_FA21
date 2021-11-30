@@ -1,0 +1,76 @@
+Executing HW1
+_________________________________________________
+Rows for month 1 of 2020, with Good data:
+   82828
+Rows for month 2 of 2020, with Good data:
+   82828
+Rows for month 3 of 2020, with Good data:
+   82828
+Rows for month 4 of 2020, with Good data:
+   82828
+Rows for month 5 of 2020, with Good data:
+   82828
+Rows for month 6 of 2020, with Good data:
+   82828
+Rows for month 7 of 2020, with Good data:
+   82828
+Rows for month 8 of 2020, with Good data:
+   82828
+Rows for month 9 of 2020, with Good data:
+   82828
+Rows for month 10 of 2020, with Good data:
+   20947
+Rows for month 11 of 2020, with Good data:
+   20947
+Rows for month 12 of 2020, with Good data:
+   20947
+_________________________________________________
+Rows for month 1 of 2019, with Good data:
+   79204
+Rows for month 2 of 2019, with Good data:
+   79204
+Rows for month 3 of 2019, with Good data:
+   79204
+Rows for month 4 of 2019, with Good data:
+   79204
+Rows for month 5 of 2019, with Good data:
+   79204
+Rows for month 6 of 2019, with Good data:
+   79204
+Rows for month 7 of 2019, with Good data:
+   79204
+Rows for month 8 of 2019, with Good data:
+   79204
+Rows for month 9 of 2019, with Good data:
+   79204
+Rows for month 10 of 2019, with Good data:
+   20604
+Rows for month 11 of 2019, with Good data:
+   20604
+Rows for month 12 of 2019, with Good data:
+   20604
+_________________________________________________
+Rows for month 1 of 2018, with Good data:
+   71455
+Rows for month 2 of 2018, with Good data:
+   71455
+Rows for month 3 of 2018, with Good data:
+   71455
+Rows for month 4 of 2018, with Good data:
+   71455
+Rows for month 5 of 2018, with Good data:
+   71455
+Rows for month 6 of 2018, with Good data:
+   71455
+Rows for month 7 of 2018, with Good data:
+   71455
+Rows for month 8 of 2018, with Good data:
+   71455
+Rows for month 9 of 2018, with Good data:
+   71455
+Rows for month 10 of 2018, with Good data:
+   20165
+Rows for month 11 of 2018, with Good data:
+   20165
+Rows for month 12 of 2018, with Good data:
+   20165
